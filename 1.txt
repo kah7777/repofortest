@@ -3,3 +3,5 @@ hello from 1 , first commit
 this is from a new branch called feature1
 
 i will try to do git pull 
+
+now i will edit to push
